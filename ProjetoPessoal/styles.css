@@ -1,0 +1,72 @@
+html {
+    background-color: #FD0024;
+    font-family: monospace;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+.linguagem {
+    font-size: 20px;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+ul li {
+    line-height: 20px
+}
+
+#apresentacao {
+    display: flex;
+}
+#sobre-mim {
+    background-color: white;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-left: 40px;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: justify;
+    line-height: 20px
+    
+}
+
+#cards {
+    background-color: white;
+    display: flex;
+    margin-top: 50px;
+    border: 5px solid black;
+}
+
+#um-pouco-mais {
+    background-color: white;
+    border: 1px solid #ccc;
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px solid black;
+    
+}
+
+.fullCard {
+    width: 235px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.cardContent {
+    padding: 10px;
+}
+.cardText {
+    margin-bottom: 30px;
+}
+.fullCard:hover {
+    transform: scale(1.1);
+  }
