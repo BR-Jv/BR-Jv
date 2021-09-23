@@ -1,6 +1,12 @@
-### Hi there 👋
-
-<!--It's a me João-->
+<h1>It's a me João 👻</h1>
+<div>
+  <ul>
+    <li>Tenho 21 anos</li>
+    <li>Sou graduando em CeT/UFRN</li>
+    <li>Em constante aprendizado sobre programação. (e em todos os aspectos da vida)</li>
+  </ul>
+</div>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BR-Jv&theme=ocean_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR-Jv&layout=compact)](https://github.com/BR-Jv/github-readme-stats)
@@ -9,7 +15,7 @@
 <a href="https://www.instagram.com/oi.eu.sou.o.jaum"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto: jv.alves193@gmail.com?subject=subject text"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<h2>Linguagens</h2>
+<h2>Linguagens que tenho XP</h2>
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
