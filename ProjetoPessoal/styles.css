@@ -25,7 +25,7 @@ ul li {
 }
 #sobre-mim {
     background-color: white;
-    width: 100%;
+    /* antes - width: 100%*/
     border: 1px solid #ccc;
     padding: 10px;
     margin-left: 40px;
@@ -70,3 +70,33 @@ ul li {
 .fullCard:hover {
     transform: scale(1.1);
   }
+
+@media (max-width: 360px) {
+    
+    #div-img {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    #apresentacao {
+        flex-direction: column;
+    }
+    #sobre-mim {
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    #cards {
+        flex-direction: column;
+        margin-top: 15px;
+    }
+    #um-pouco-mais {
+        margin-top: 15px;
+    }
+    .fullCard {
+        margin: 0 auto;
+        width: 80%
+    }
+    .fullCard:hover {
+        transform: scale(1);
+    }
+}
