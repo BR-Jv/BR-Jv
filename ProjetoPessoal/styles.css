@@ -36,8 +36,12 @@ ul li {
     
 }
 #cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: white;
     border: 5px solid black;
+    margin-top: 50px;
 }
 
 #um-pouco-mais {
@@ -63,39 +67,12 @@ ul li {
 .cardText {
     margin-bottom: 30px;
 }
-/*
-.fullCard:hover {
-    transform: scale(1.1);
-  }
 
-  @media (max-width: 360px) {
-      
-      #div-img {
-          width: 100%;
-          display: flex;
-          justify-content: center;
-      }
-      #apresentacao {
-          flex-direction: column;
-      }
-      #sobre-mim {
-          margin-top: 15px;
-          margin-left: 0px;
-      }
-      #cards {
-          flex-direction: column;
-          margin-top: 15px;
-      }
-      #um-pouco-mais {
-          margin-top: 15px;
-      }
-      .fullCard {
-          margin: 0 auto;
-          width: 80%
-      }
-      .fullCard:hover {
-          transform: scale(1);
-      }
-  }
-  */
-
+@media (min-width: 810px) {
+    #apresentacao {
+        flex-direction: row;
+    }
+    #cards {
+        flex-direction: row;
+    }
+}
