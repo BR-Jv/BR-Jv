@@ -3,7 +3,6 @@
   <ul>
     <li>Tenho 21 anos</li>
     <li>Sou graduando em CeT/UFRN</li>
-    <li>Apaixonado por hardware e software</li>
   </ul>
 </div>
 <br>
