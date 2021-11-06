@@ -1,8 +1,9 @@
 <h1>It's a me João 👻</h1>
 <div>
   <ul>
-    <li>Tenho 21 anos</li>
+    <li>Tenho 22 anos</li>
     <li>Sou graduando em CeT/UFRN</li>
+    
   </ul>
 </div>
 <br>
