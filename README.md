@@ -2,8 +2,10 @@
 <div>
   <ul>
     <li>Tenho 22 anos</li>
-    <li>Sou graduando em CeT/UFRN</li>
-    
+    <li>Graduando em Ciência e Tecnologia/UFRN</li>
+    <li>Desenvolvedor Web iniciante</li>
+    <li>Curioso por natureza</li>
+    <li>Ao infinito...e além!</li>
   </ul>
 </div>
 <br>
