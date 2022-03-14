@@ -1,10 +1,8 @@
 <h1>It's a me João 👻</h1>
 <div>
   <ul>
-    <li>Tenho 22 anos</li>
     <li>Graduando em Ciência e Tecnologia/UFRN</li>
     <li>Desenvolvedor Web iniciante</li>
-    <li>Curioso por natureza</li>
     <li>Ao infinito...e além!</li>
   </ul>
 </div>
