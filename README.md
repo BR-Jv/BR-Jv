@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR-Jv&layout=compact)](https://github.com/BR-Jv/github-readme-stats)
 
 <h2>Contato</h2>
-<a href="https://www.instagram.com/oi.eu.sou.o.jaum"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/oi.eu.sou.o.jao/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto: jv.alves193@gmail.com?subject=subject text"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <h2>Tenho algum XP em:</h2>
