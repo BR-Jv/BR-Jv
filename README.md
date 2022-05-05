@@ -1,12 +1,10 @@
-<h1>It's a me João 👻</h1>
-<div>
-  <ul>
-    <li>Graduando em Ciência e Tecnologia/UFRN</li>
-    <li>Buscando conhecimento para me tornar um desenvolvedor web Fullstack</li>
-    <li>Apaixonado por programação !</li>
-    <li>Ao infinito...e além!</li>
-  </ul>
-</div>
+<h1>Olá, meu nome é João</h1>
+ <ul>
+   <li>Graduando em Ciência e Tecnologia/UFRN</li>
+   <li>Buscando conhecimento para me tornar um desenvolvedor web Fullstack</li>
+   <li>Apaixonado por programação !</li>
+   <li>Ao infinito...e além!</li>
+ </ul>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BR-Jv&theme=ocean_dark&show_icons=true)
