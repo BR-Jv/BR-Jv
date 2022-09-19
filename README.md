@@ -1,6 +1,7 @@
-![]()
 
-<p>Sou estudante da graduação em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte. Busco desenvolver aplicações que relacionem meus conhecimentos de matemática e física.</p>
+![Capa](https://user-images.githubusercontent.com/91099353/191070616-e6dd59aa-bd97-4de3-a14c-a28c5842333b.gif)
+
+<p>Sou estudante da graduação em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte. Busco desenvolver aplicações que relacionem meus conhecimentos de matemática, física e programação.</p>
 
 ### Sobre mim
  
