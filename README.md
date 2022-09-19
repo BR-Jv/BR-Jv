@@ -1,16 +1,18 @@
 <h1>Oi, eu sou o joão !</h1>
-<p>Sou estudante da graduação em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte, atualmente estou focado no estudo de tecnologias back-end e banco de dados.</p>
+<p>Sou estudante da graduação em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte. Busco desenvolver aplicações que relacionem meus conhecimentos de matemática e física.</p>
 
 ### Sobre mim
-
+ 
  <ul>
-   <li>Adoro jogos de RPG. ⚔️</li>
+   <li>Adoro jogos de RPG e FPS. ⚔️</li>
  </ul>
+ 
 <h2>Atualmente focado em: </h2>
+<a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+
+<h2>Conhecimento em: </h2>
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<h2>Conhecimento em: </h2>
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
