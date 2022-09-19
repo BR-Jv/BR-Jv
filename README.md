@@ -1,4 +1,5 @@
-<h1>Oi, eu sou o joão !</h1>
+![]()
+
 <p>Sou estudante da graduação em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte. Busco desenvolver aplicações que relacionem meus conhecimentos de matemática e física.</p>
 
 ### Sobre mim
