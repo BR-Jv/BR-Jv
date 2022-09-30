@@ -1,12 +1,13 @@
+<h1>Oi, eu sou o joão!</h1>
 
-![Capa](https://user-images.githubusercontent.com/91099353/191070616-e6dd59aa-bd97-4de3-a14c-a28c5842333b.gif)
+<p>Sou estudante da graduação em Ciências e Tecnologia/UFRN e do Técnico em suporte e manutencão em informática/IFRN. Atualmente busco desenvolver aplicações que relacionem meus conhecimentos da graduação com a área de desenvolvimento web.</p>
 
-<p>Sou estudante da graduação em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte. Busco desenvolver aplicações que relacionem meus conhecimentos de matemática, física e programação.</p>
+### Vamos conversar sobre:
 
-### Sobre mim
- 
  <ul>
-   <li>Adoro jogos de RPG e FPS. ⚔️</li>
+   <li>Desenvolvimento back-end</li>
+   <li>Tecnologias para web</li>
+   <li>Matemática, Física e Computação</li>
  </ul>
  
 <h2>Atualmente focado em: </h2>
