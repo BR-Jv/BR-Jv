@@ -1,6 +1,6 @@
 <h1>Oi, eu sou o joão!</h1>
 
-<p>Sou estudante da graduação em Ciências e Tecnologia/UFRN e do Técnico em suporte e manutencão em informática/IFRN. Atualmente busco desenvolver aplicações que relacionem meus conhecimentos da graduação com a área de desenvolvimento web.</p>
+<p>Sou estudante da graduação em Ciências e Tecnologia/UFRN e do Técnico em manutencão e suporte em informática/IFRN. Atualmente busco desenvolver aplicações que relacionem meus conhecimentos da graduação com a área de desenvolvimento web.</p>
 
 ### Vamos conversar sobre:
 
