@@ -4,7 +4,7 @@
 <h3 align="left">Sobre mim:</h3>
 
 - Graduando em Ciências e Tecnologia/UFRN
-- Atualmente estou estudando **PHP, PostgreSQL e Linux**
+- Atualmente focado em **PHP, PostgreSQL e Linux**
 - Tenho interresse no universo da computação, esportes e filosofia
 - Adoro escutar lofi-hiphop e músicas instrumentais
 
