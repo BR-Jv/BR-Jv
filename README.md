@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo João Victor</h1>
+<h1 align="center">Oi, eu sou o João</h1>
 <h3 align="center">Desenvolvedor</h3>
 
 <h3 align="left">Sobre mim:</h3>
