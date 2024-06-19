@@ -4,7 +4,7 @@
 <h3 align="left">Sobre mim:</h3>
 
 - Graduando em Ciências e Tecnologia/UFRN
-- Atualmente estudando **PHP, PostgreSQL e Linux**
+- Atualmente estudando **Python, Django, PostgreSQL e Linux**
 - Tenho interesse em desenvolvimento web - Backend
 - Leitor de mangá e livros de ficção científica  
 
