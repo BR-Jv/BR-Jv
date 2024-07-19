@@ -1,12 +1,11 @@
 <h1 align="center">Oi, eu sou o João</h1>
-<h3 align="center">Desenvolvedor</h3>
+<h3 align="center">Desenvolvedor Backend</h3>
 
 <h3 align="left">Sobre mim:</h3>
 
-- Graduando em Ciências e Tecnologia/UFRN
 - Atualmente estudando **Python, Django, PostgreSQL e Linux**
 - Tenho interesse em desenvolvimento web - Backend
-- Leitor de mangá e livros de ficção científica  
+- Adoro ler mangás e livros de ficção científica  
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
