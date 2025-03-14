@@ -4,9 +4,9 @@
 
 <h3 align="left">Sobre mim:</h3>
 
-- Atualmente estudando **Python, Django, PostgreSQL e Linux**
-- Tenho interesse em desenvolvimento web - Backend
-- Adoro ler mangás e livros de ficção científica  
+- Atualmente estudando **Python, Linux, Docker e Cybersecurity**
+- Tenho interresse em: Computação, Física, Matemática, Filosófia e História 
+- Tenha experiência em: PHP,Java,C,C++,JavaScript, MySQL, PostgreSQL, SQLite
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
