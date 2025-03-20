@@ -5,7 +5,6 @@
 <h3 align="left">Sobre mim:</h3>
 
 - Atualmente estudando **Python, Linux, Docker e Cybersecurity**
-- Tenha experiência em: PHP,Java,C,C++,JavaScript, MySQL, PostgreSQL, SQLite
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
