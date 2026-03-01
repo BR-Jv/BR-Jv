@@ -1,7 +1,4 @@
 
-```txt
-Construindo soluções limpas com propósito.
-```
 
 ## Sobre  
 
