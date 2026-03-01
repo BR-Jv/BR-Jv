@@ -6,7 +6,7 @@
 - Desenvolvedor de software  
 - Foco em backend, bancos de dados e boas práticas
 - Graduando em Ciências e Tecnologia (UFRN)       
-- Técnico em Informática para Internet em formação (IMD) 
+- Técnico em Tecnologia da Informação em formação (IMD) 
 
 
 
