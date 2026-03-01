@@ -1,9 +1,13 @@
 
+> Em constante evolução, sempre buscando formas mais eficientes de construir software 
 
 ## Sobre  
 
-Desenvolvedor de software focado em clareza, desempenho e manutenibilidade.  
-Em constante evolução, sempre buscando formas mais eficientes de construir.
+- Desenvolvedor de software  
+- Foco em backend, bancos de dados e boas práticas
+- Graduando em Ciências e Tecnologia (UFRN)       
+- Técnico em Informática para Internet em formação (IMD) 
+
 
 
 
